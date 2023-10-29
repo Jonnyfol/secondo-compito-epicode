@@ -1,0 +1,123 @@
+
+
+.tuttapagina{
+    width: 100%;
+    background-color: rgb(34,47,62,255);
+    height: 50px;
+   
+  
+}
+.logo{
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+.secondariga{
+    width: 100%;
+    background-color: rgb(53,71,88,255);
+    height: 30px;
+   padding-left: 20px;
+   box-sizing: border-box;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.elencodifianco{
+    display: inline-block;
+   font-size: 15px;
+    margin-right: 20px;
+    color: white;
+   padding-top: 8px;
+}
+.rigaar{
+    background-color: rgb(245,102,0,255);
+    color: white;
+    text-align:center ;
+    height: 35px;
+    padding: 1px;
+    
+    margin-top: 30px;
+    
+}
+.centro{
+    margin: 10px;
+}
+.immagineverde{
+    margin-top: 20px;
+    background-image: url(bg-image.png) ;
+    color:white;
+    text-align: center;
+    height: 110px;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+body{
+   margin: 0px;
+    background-color: rgb(234,237,237,255);
+}
+
+.contenitore1{
+    background-color: white;
+    height: 450px;
+    margin-top: 30px;
+    padding: 10px;
+}
+.immag{
+    height: 390px;
+    width: 415px;
+    
+   margin-top: 20px;
+   border-radius: 20px;
+   margin-left: 30px;
+}
+.scrittablu{
+    color:rgb(1,113,133,255);
+    padding-left: 20px;
+    padding-right: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.imgvr{
+    margin-top: 30px;
+    
+}
+.imgvrint{
+    width: 1840px;
+    height: 550px;
+}
+.scrittacentro{
+    border-top: 1px;
+    margin-top: 3px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.rigaback{
+    width: 100%;
+    background-color: rgb(53,71,88,255);
+    height: 30px;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    padding-top: 10px;
+   margin-top: 30px;
+   margin-bottom:0;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.finale{
+    width: 100%;
+    background-color: rgb(34,47,62,255);
+    height: 200px;
+    padding-top: 70px;
+}
+.imgfin{
+    margin-left: 41%;
+    margin-right: 41%;
+}
+.distanziatore{
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sep{
+    border-top: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
